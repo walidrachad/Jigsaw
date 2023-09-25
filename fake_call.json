@@ -10,7 +10,7 @@
       "name": "Ronaldo",
       "pages": [
         {
-          "label": "Jigsaw",
+          "label": "Fake call",
           "type": "LIST_PAGE",
           "isRemote": true,
           "url": "/walidrachad/Jigsaw/main/fake_call_list.json"
