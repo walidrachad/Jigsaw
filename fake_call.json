@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Ronaldo",
+    "image": {
+      "isRemote": false,
+      "url": "assets/images/download.jpeg"
+    },
+    "video": {
+      "isRemote": true,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    "audio": {
+      "isRemote": true,
+      "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
+    },
+    "jigsaw": [
+      {
+        "id": 1,
+        "image": "",
+        "actif": true,
+        "size": 4
+      }
+    ]
+  }
+]
