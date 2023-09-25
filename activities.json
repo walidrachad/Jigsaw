@@ -4,41 +4,31 @@
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
     "size": 4,
-    "type": "FAKE_CALL",
-    "page": [
-      {
-        "label": "Video Call",
-        "isRemote": true,
-        "type": "CALL_VIDEO",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-      },
-      {
-        "label": "Audio Call",
-        "type": "CALL_AUDIO",
-        "isRemote": true,
-        "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
-      }
-    ]
+    "type": "CALL_VIDEO",
+    "url":""
   },
   {
     "id": 1,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
     "size": 4,
-    "type": "FAKE_CALL",
-    "call": [
-      {
-        "label": "Video Call",
-        "isRemote": true,
-        "type": "CALL_VIDEO",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-      },
-      {
-        "label": "Audio Call",
-        "type": "CALL_AUDIO",
-        "isRemote": true,
-        "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
-      }
-    ]
+    "type": "CALL_AUDIO",
+    "url":""
+  },
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
+    "actif": true,
+    "size": 4,
+    "type": "JIGSAW",
+    "url":""
+  },
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
+    "actif": true,
+    "size": 4,
+    "type": "LIST_PAGE",
+    "url":""
   }
 ]
