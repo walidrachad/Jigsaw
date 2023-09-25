@@ -10,10 +10,10 @@
       "name": "Ronaldo",
       "pages": [
         {
-          "label": "Video Call",
+          "label": "Jigsaw",
+          "type": "LIST_PAGE",
           "isRemote": true,
-          "type": "CALL_VIDEO",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          "url": "/walidrachad/Jigsaw/main/fake_call_list.json"
         },
         {
           "label": "Audio Call",
