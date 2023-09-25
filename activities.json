@@ -29,6 +29,8 @@
     "actif": true,
     "size": 4,
     "type": "LIST_PAGE",
+    "typeView":"GRID_VIEW",
+    "gridCount":2,
     "url":"/walidrachad/Jigsaw/main/activities.json"
   }
 ]
