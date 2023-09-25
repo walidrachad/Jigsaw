@@ -11,7 +11,7 @@
       "pages": [
         {
           "label": "Fake call",
-          "type": "WEB_VIEW",
+          "type": "LIST_PAGE",
           "typeView":"LIST_VIEW",
           "isRemote": true,
           "url": "/walidrachad/Jigsaw/main/activities.json"
