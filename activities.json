@@ -6,7 +6,7 @@
     "size": 4,
     "type": "CALL_VIDEO",
     "url":"",
-    "label":"label"
+    "label":"Video Call"
   },
   {
     "id": 1,
@@ -15,7 +15,7 @@
     "size": 4,
     "type": "CALL_AUDIO",
     "url":"",
-    "label":"label"
+    "label":"Audio Call"
   },
   {
     "id": 1,
@@ -24,7 +24,7 @@
     "size": 4,
     "type": "JIGSAW",
     "url":"",
-    "label":"label"
+    "label":"JIGSAW"
   },
   {
     "id": 1,
