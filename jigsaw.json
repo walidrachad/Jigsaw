@@ -3,60 +3,70 @@
     "id": 1,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 4
+    "size": 4,
+    "type": "JIGSAW"
   },
   {
     "id": 2,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 4
+    "size": 4,
+    "type": "JIGSAW"
   },
   {
     "id": 3,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 4
+    "size": 4,
+    "type": "JIGSAW"
   },
   {
     "id": 4,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 4
+    "size": 4,
+    "type": "JIGSAW"
   },
   {
     "id": 5,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 4
+    "size": 4,
+    "type": "JIGSAW"
   },
   {
     "id": 6,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 5
+    "size": 5,
+    "type": "JIGSAW"
   },
   {
     "id": 7,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 5
+    "size": 5,
+    "type": "JIGSAW"
   },
   {
     "id": 8,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 5
+    "size": 5,
+    "type": "JIGSAW"
   },
   {
     "id": 9,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 5
+    "size": 5,
+    "type": "JIGSAW"
   },
   {
     "id": 10,
     "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
     "actif": true,
-    "size": 5
+    "size": 5,
+    "type": "JIGSAW"
   }
 ]
