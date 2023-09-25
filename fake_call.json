@@ -17,12 +17,6 @@
           "url": "/walidrachad/Jigsaw/main/activities.json"
         },
         {
-          "label": "Audio Call",
-          "type": "CALL_AUDIO",
-          "isRemote": true,
-          "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
-        },
-        {
           "label": "Jigsaw",
           "type": "LIST_PAGE",
           "typeView":"GRID_VIEW",
