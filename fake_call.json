@@ -25,7 +25,7 @@
           "label": "Jigsaw",
           "type": "LIST_PAGE",
           "isRemote": true,
-          "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
+          "url": "/walidrachad/Jigsaw/main/jigsaw.json"
         },
         {
           "label": "Privacy Policy",
