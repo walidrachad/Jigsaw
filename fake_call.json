@@ -1,25 +1,39 @@
-[
-  {
-    "name": "Ronaldo",
-    "image": {
-      "isRemote": false,
-      "url": "assets/images/download.jpeg"
-    },
-    "video": {
-      "isRemote": true,
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    },
-    "audio": {
-      "isRemote": true,
-      "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
-    },
-    "jigsaw": [
-      {
-        "id": 1,
-        "image": "",
-        "actif": true,
-        "size": 4
-      }
-    ]
-  }
-]
+{
+  "appName":"Fake call",
+  "callSize": 1,
+  "image": {
+    "isRemote": false,
+    "url": "assets/images/download.jpeg"
+  },
+  "activity": [
+    {
+      "name": "Ronaldo",
+      "pages": [
+        {
+          "label": "Video Call",
+          "isRemote": true,
+          "type": "CALL_VIDEO",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+          "label": "Audio Call",
+          "type": "CALL_AUDIO",
+          "isRemote": true,
+          "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
+        },
+        {
+          "label": "Jigsaw",
+          "type": "LIST_PAGE",
+          "isRemote": true,
+          "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
+        },
+        {
+          "label": "Privacy Policy",
+          "type": "WEB_VIEW",
+          "isRemote": true,
+          "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
+        }
+      ]
+    }
+  ]
+}
