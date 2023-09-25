@@ -5,7 +5,7 @@
     "actif": true,
     "size": 4,
     "type": "CALL_VIDEO",
-    "url":"",
+    "url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
     "label":"Video Call"
   },
   {
@@ -14,7 +14,7 @@
     "actif": true,
     "size": 4,
     "type": "CALL_AUDIO",
-    "url":"",
+    "url":"https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3",
     "label":"Audio Call"
   }
 ]
