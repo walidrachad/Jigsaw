@@ -14,7 +14,7 @@
           "type": "LIST_PAGE",
           "typeView":"LIST_VIEW",
           "isRemote": true,
-          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
+          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/fakecall.png",
           "url": "/walidrachad/Jigsaw/main/activities.json"
         },
         {
@@ -22,14 +22,14 @@
           "type": "LIST_PAGE",
           "typeView":"GRID_VIEW",
           "gridCount":2,
-          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
+          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/jigsaw.png",
           "isRemote": true,
           "url": "/walidrachad/Jigsaw/main/jigsaw.json"
         },
         {
           "label": "Privacy Policy",
           "type": "WEB_VIEW",
-          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/Jigsaw.jpg",
+          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/pv.png",
           "isRemote": true,
           "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
         }
