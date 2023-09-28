@@ -10,14 +10,6 @@
       "name": "Ronaldo",
       "pages": [
         {
-          "label": "Fake call",
-          "type": "LIST_PAGE",
-          "typeView":"LIST_VIEW",
-          "isRemote": true,
-          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/fakecall.png",
-          "url": "/walidrachad/Jigsaw/main/activities.json"
-        },
-        {
           "label": "Jigsaw",
           "type": "LIST_PAGE",
           "typeView":"GRID_VIEW",
@@ -26,6 +18,15 @@
           "isRemote": true,
           "url": "/walidrachad/Jigsaw/main/jigsaw.json"
         },
+        {
+          "label": "Fake call",
+          "type": "LIST_PAGE",
+          "typeView":"LIST_VIEW",
+          "isRemote": true,
+          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/fakecall.png",
+          "url": "/walidrachad/Jigsaw/main/activities.json"
+        },
+        
         {
           "label": "Privacy Policy",
           "type": "WEB_VIEW",
