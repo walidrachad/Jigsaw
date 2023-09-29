@@ -20,10 +20,10 @@
         },
         {
           "label": "Fake call",
-          "type": "LIST_PAGE",
+          "type": "WEB_VIEW",
           "typeView":"LIST_VIEW",
           "isRemote": true,
-          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/fakecall.png",
+          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/howto.png",
           "url": "/walidrachad/Jigsaw/main/activities.json"
         },
         
