@@ -30,7 +30,7 @@
         {
           "label": "Privacy Policy",
           "type": "WEB_VIEW",
-          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/pv.png",
+          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/prv.png",
           "isRemote": true,
           "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
         }
