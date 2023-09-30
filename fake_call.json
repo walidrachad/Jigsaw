@@ -23,7 +23,7 @@
           "type": "WEB_VIEW",
           "isRemote": true,
           "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/howto.png",
-          "url": "assets/howToPlay.html"
+          "url": "https://flutter.dev"
         },
         {
           "label": "Privacy Policy",
