@@ -1,5 +1,5 @@
 {
-  "appName":"Fake call",
+  "appName":"Jigsaw",
   "callSize": 1,
   "image": {
     "isRemote": false,
@@ -7,7 +7,7 @@
   },
   "activity": [
     {
-      "name": "Ronaldo",
+      "name": "Jigsaw",
       "pages": [
         {
           "label": "Jigsaw",
@@ -21,18 +21,16 @@
         {
           "label": "Fake call",
           "type": "WEB_VIEW",
-          "typeView":"LIST_VIEW",
           "isRemote": true,
           "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/howto.png",
-          "url": "/walidrachad/Jigsaw/main/activities.json"
+          "url": "assets/howToPlay.html"
         },
-        
         {
           "label": "Privacy Policy",
           "type": "WEB_VIEW",
           "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/prv.png",
           "isRemote": true,
-          "url": "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3"
+          "url": "assets/privacy_policy.html"
         }
       ]
     }
