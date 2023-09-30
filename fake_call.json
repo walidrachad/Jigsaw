@@ -15,7 +15,7 @@
           "typeView":"GRID_VIEW",
           "gridCount":2,
           "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/jigsaw.png",
-          "isRemote": true,
+          "isRemote": false,
           "url": "/walidrachad/Jigsaw/main/jigsaw.json"
         },
         {
@@ -29,7 +29,7 @@
           "label": "Privacy Policy",
           "type": "WEB_VIEW",
           "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/prv.png",
-          "isRemote": true,
+          "isRemote": false,
           "url": "assets/privacy_policy.html"
         }
       ]
