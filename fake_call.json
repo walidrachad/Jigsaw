@@ -21,7 +21,7 @@
         {
           "label": "Jigsaw",
           "type": "LIST_PAGE",
-          "typeView":"List_VIEW",
+          "typeView":"LIST_VIEW",
           "gridCount":2,
           "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/fakecall.png",
           "isRemote": false,
