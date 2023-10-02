@@ -240,14 +240,6 @@
     "label":"label"
   },
   {
-    "id": 31,
-    "image": "assets/images/jigsaw/31.jpg",
-    "actif": true,
-    "size": 4,
-    "type": "JIGSAW",
-    "label":"label"
-  },
-  {
     "id": 32,
     "image": "assets/images/jigsaw/32.jpg",
     "actif": true,
