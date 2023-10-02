@@ -19,13 +19,6 @@
           "url": "/walidrachad/Jigsaw/main/jigsaw.json"
         },
         {
-          "label": "Fake call",
-          "type": "WEB_VIEW",
-          "isRemote": true,
-          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/howto.png",
-          "url": "https://flutter.dev"
-        },
-        {
           "label": "Privacy Policy",
           "type": "WEB_VIEW",
           "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/prv.png",
