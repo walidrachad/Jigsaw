@@ -280,14 +280,6 @@
     "label":"label"
   },
   {
-    "id": 37,
-    "image": "assets/images/jigsaw/37.jpg",
-    "actif": true,
-    "size": 5,
-    "type": "JIGSAW",
-    "label":"label"
-  },
-  {
     "id": 38,
     "image": "assets/images/jigsaw/38.jpg",
     "actif": true,
@@ -322,14 +314,6 @@
   {
     "id": 42,
     "image": "assets/images/jigsaw/42.jpg",
-    "actif": true,
-    "size": 4,
-    "type": "JIGSAW",
-    "label":"label"
-  },
-  {
-    "id": 43,
-    "image": "assets/images/jigsaw/43.jpg",
     "actif": true,
     "size": 4,
     "type": "JIGSAW",
