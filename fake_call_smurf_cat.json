@@ -29,7 +29,7 @@
           "typeView":"LIST_VIEW",
           "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/fakecall.png",
           "isRemote": false,
-          "url": "/walidrachad/Jigsaw/main/jigsaw.json"
+          "url": "/walidrachad/Jigsaw/main/activities.json"
         },
         {
           "label": "Privacy Policy",
