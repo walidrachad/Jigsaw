@@ -1,0 +1,400 @@
+{
+  "appName":"Jigsaw",
+  "callSize": 1,
+  "ads": {
+    "actif": false,
+    "interstitialAd": "ca-app-pub-9908468712156580/9847611063",
+    "rewardedAd": "ca-app-pub-9908468712156580/1969121047"
+  },
+  "image": {
+    "isRemote": false,
+    "url": "assets/images/download.jpeg"
+  },
+  "activity": [
+    {
+      "name": "Jigsaw",
+      "pages": [
+        {
+          "label": "Jigsaw",
+          "type": "LIST_PAGE",
+          "typeView":"GRID_VIEW",
+          "gridCount":2,
+          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/jigsaw.png",
+          "isRemote": false,
+          "url": "/walidrachad/Jigsaw/main/jigsaw.json"
+        },
+        {
+          "label": "Jigsaw",
+          "type": "LIST_PAGE",
+          "typeView":"LIST_VIEW",
+          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/fakecall.png",
+          "isRemote": false,
+          "url": "/walidrachad/Jigsaw/main/jigsaw.json"
+        },
+        {
+          "label": "Privacy Policy",
+          "type": "WEB_VIEW",
+          "image": "https://raw.githubusercontent.com/walidrachad/Jigsaw/main/images/prv.png",
+          "isRemote": false,
+          "url": "assets/privacy_policy.html"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
