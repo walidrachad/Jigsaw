@@ -2,7 +2,7 @@
   "appName":"Jigsaw",
   "callSize": 1,
   "ads": {
-    "actif": false,
+    "actif": true,
     "interstitialAd": "ca-app-pub-2689255277424970/9234164712",
     "rewardedAd": "ca-app-pub-2689255277424970/2668756367"
   },
