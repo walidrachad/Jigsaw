@@ -1,0 +1,24 @@
+{
+  "share_title": "",
+"share_text": "",
+"share_link_url": "",
+"task_link": "",
+"contact": "",
+"privacy_policy": "",
+"has_pub": false,
+"pub_image":"https://picsum.photos/200/300",
+"onesignal_key": "24d2051d-2f6d-43e6-a08b-f4f7f276252a",
+"pup_link": "",
+  "ads": {
+    "is_active": false,
+"admob_id": "",
+"fan_id":"a77955ee-3304-4635-be65-81029b0f5201",
+"admob_interstitial":"ca-app-pub-3940256099942544/1033173712",
+"admob_rewarded":"ca-app-pub-3940256099942544/5224354917",
+"admob_native":"/6499/example/native",
+"fan_interstitial":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
+"fan_rewarded":"YOUR_PLACEMENT_ID",
+"fan_native":"IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
+"provider":"admob"
+}}
+
